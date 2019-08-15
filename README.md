@@ -1,6 +1,6 @@
 
  <div align="center">
-     <img src="/frontend/public/screenshot.png" width="700px"</img> 
+     <img src="/frontend/public/home.png" width="700px"</img> 
  </div>
 
 
